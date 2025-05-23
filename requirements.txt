@@ -1,0 +1,11 @@
+streamlit 
+
+langchain
+ langchain-community
+  langchain-groq
+   langgraph
+    python-dotenv
+     arxiv
+      requests 
+      pydantic
+       typing-extensions
