@@ -1,5 +1,7 @@
 # ChatScholar
-Suggests a scholarly, research-focused chatbot with conversational memory.i built this using langgraph where multiple tools are used like travily for searching,Arxiv for understand reserach and wiki for detail meaning    
+Suggests a scholarly, research-focused chatbot with conversational memory.i built this using langgraph where multiple tools are used like travily for searching,Arxiv for understand reserach and wiki for detail meaning     
+workflow:![Screenshot 2025-05-23 131536](https://github.com/user-attachments/assets/ef5a1c74-9bfa-4180-9b3f-9dda3bb18349)
+
 ![image](https://github.com/user-attachments/assets/ecc6c509-7b85-4d77-b673-9588d74ef4e2) (following a chain)
 
 ![Screenshot 2025-05-23 125348](https://github.com/user-attachments/assets/5e28b5c2-92c8-4a2f-803c-e9b952909b31) 
